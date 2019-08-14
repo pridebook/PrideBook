@@ -1,0 +1,18 @@
+body {
+  background-color: deeppink;
+}
+header {
+  display: flex;
+}
+header nav {
+  display: flex;
+}
+header nav a {
+  text-decoration: none;
+  margin: 35px 50px;
+  color: yellow;
+}
+header h1 {
+  color: yellow;
+  margin: 20px 500px 0px 50px;
+}
