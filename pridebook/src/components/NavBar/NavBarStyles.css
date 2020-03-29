@@ -1,0 +1,9 @@
+.Nav{
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+}
+a {
+    padding: 10px;
+    
+}

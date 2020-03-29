@@ -1,0 +1,21 @@
+.App{
+  background-color: purple;
+}
+
+.Header{
+  display: flex;
+}
+.Head h1{
+  margin-right: 650px;
+  color: yellow;
+}
+.Header h4{
+  margin-right: 50px;
+  color: yellow;
+}
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+
