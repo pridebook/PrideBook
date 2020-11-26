@@ -19,3 +19,14 @@ header h1 {
   color: yellow;
   margin: 20px 500px 0px 50px;
 }
+.developerSect {
+  display: flex;
+}
+.developerSect #terrydiv {
+  color: yellow;
+  margin-right: 450px;
+}
+.developerSect #mikediv {
+  color: yellow;
+  margin-left: auto;
+}
